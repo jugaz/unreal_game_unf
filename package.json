@@ -1,0 +1,19 @@
+{
+  "name": "unreal_game_unf",
+  "version": "1.0.0",
+  "description": "Developed with Unreal Engine 5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jugaz/unreal_game_unf.git"
+  },
+  "author": "Jesús Antonio Ugaz Vegas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jugaz/unreal_game_unf/issues"
+  },
+  "homepage": "https://github.com/jugaz/unreal_game_unf#readme"
+}
